@@ -1,0 +1,22 @@
+{
+  "manifest_version": 2,
+  "name": "streamlinklink",
+  "version": "0.1",
+  "author": "Hugo D",
+  "description": "Run Streamlink with spcified link",
+  "icons": {
+    "48": "icons/logo.jpg"
+  
+  },
+
+  "applications":{
+    "gecko":{
+     "id":"streamlinklink@example.org"
+    }
+  },
+
+  "permissions": ["contextMenus", "nativeMessaging"],
+  "background" : {
+    "scripts": ["background.js"]
+  }
+}
