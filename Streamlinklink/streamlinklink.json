@@ -1,7 +1,0 @@
-{
-    "name": "streamlinklink",
-    "description": "Runs streamlink with passed URL",
-    "path": "C:\\Users\\hugom\\Desktop\\streamlinklink\\streamlinklink.bat",
-    "type": "stdio",
-    "allowed_extensions": [ "streamlinklink@example.org" ]
-}
