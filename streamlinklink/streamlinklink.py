@@ -24,8 +24,8 @@ def launchStreamlink(url):
 
 
 def main():
-  url = getMessage()
-  launchStreamlink(url)
+    url = getMessage()
+    launchStreamlink(url)
 
 
 main()
