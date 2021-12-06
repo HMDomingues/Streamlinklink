@@ -2,9 +2,7 @@
 
 import sys
 import json
-import struct
 import subprocess
-import platform
 
 
 
