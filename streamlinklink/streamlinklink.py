@@ -18,7 +18,7 @@ def getMessage():
 
 
 def launchStreamlink(url):
-    p = subprocess.Popen(['streamlink.exe', url, 'best' '--twitch-disable-ads'], creationflags = 0x01000000 | subprocess.CREATE_NEW_CONSOLE)
+    p = subprocess.Popen(['streamlink.exe', url, 'best', '--twitch-disable-ads'], creationflags = 0x01000000 | subprocess.CREATE_NEW_CONSOLE)
 
 
 
