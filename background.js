@@ -14,10 +14,6 @@ browser.contextMenus.onClicked.addListener((info, tab) => {
   switch (info.menuItemId) {
     case "run-in-streamlink":
       url = info.linkUrl;
-
-      break;
-    case "streamlink-page":
-      url = info.pageUrl;
       break;
   }
   if(url !== undefined && url !== null){
