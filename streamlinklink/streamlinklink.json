@@ -1,7 +1,7 @@
 {
     "name": "streamlinklink",
     "description": "Runs streamlink with passed URL",
-    "path": "C:\\Users\\hugom\\Documents\\GitHub\\Streamlinklink\\streamlinklink\\streamlinklink.bat",
+    "path": "streamlinklink.bat",
     "type": "stdio",
-    "allowed_extensions": [ "streamlinklink@example.org" ]
+    "allowed_extensions": [ "streamlinklink@mozilla.org" ]
 }
