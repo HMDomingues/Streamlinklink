@@ -1,11 +1,11 @@
 {
   "manifest_version": 2,
   "name": "streamlinklink",
-  "version": "0.1",
+  "version": "0.2",
   "author": "Hugo D",
-  "description": "Run Streamlink with spcified link",
+  "description": "Run Streamlink with specified link",
   "icons": {
-    "48": "icons/logo.jpg"
+    "48": "icons/logo.png"
   
   },
 
