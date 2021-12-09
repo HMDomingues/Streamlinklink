@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "streamlinklink",
-  "version": "0.2",
+  "version": "0.3",
   "author": "Hugo D",
   "description": "Run Streamlink with specified link",
   "icons": {
