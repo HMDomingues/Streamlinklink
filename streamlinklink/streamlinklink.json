@@ -3,5 +3,5 @@
     "description": "Runs streamlink with passed URL",
     "path": "streamlinklink.bat",
     "type": "stdio",
-    "allowed_extensions": [ "streamlinklink@mozilla.org" ]
+    "allowed_extensions": [ "streamlinklink@extension.org" ]
 }
